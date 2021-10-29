@@ -5,7 +5,7 @@
 •	обрати методи класифікації об'єктів для реалізації алгоритму виявлення ботів; 
 •	розробити модель виявлення ботів в онлайнових соціальних мережах; 
 •	проаналізувати результати роботи. 
-How to install
-download Anaconda3 https://www.anaconda.com/products/individual
-Run build_model.ipynb
-Get result)
+How to install:
+1) Download Anaconda3 https://www.anaconda.com/products/individual
+2) Run build_model.ipynb
+3) Get result)
